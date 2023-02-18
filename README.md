@@ -15,7 +15,7 @@
 
 <hr>
 
-## Link do Deploy (Vercel)
+## Link de Acesso ao Projeto (Vercel)
 
 https://dark-light-form-login.vercel.app
 
